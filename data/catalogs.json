@@ -1,0 +1,4 @@
+[
+  { "table_name": "MEMBER_STATUS", "path": "./data/member_status.json" },
+  { "table_name": "TASK_STATUS", "path": "./data/task_status.json" }
+]
