@@ -1,6 +1,6 @@
 # menu.py
 import flet as ft
-from util.styles import menu_text_style, menu_button_style
+from util.styles import menu_button_style
 
 
 def create_item(text, icon, value, on_option_click):
